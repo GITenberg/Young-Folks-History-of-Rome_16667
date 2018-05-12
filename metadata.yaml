@@ -1,0 +1,31 @@
+_repo: Young-Folks-History-of-Rome_16667
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16667-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Juvenile literature'
+- !lcc 'DG'
+title: Young Folks' History of Rome
+url: http://www.gutenberg.org/ebooks/16667
